@@ -1,4 +1,6 @@
 kcc => kk's C language Compiler  下载：右击另存为
+2013-01-27:
+		commit: 可以计算简单#if表达式
 2013-01-11:
 		commit: 修正对&&和||的错误处理
 2013-01-03:
