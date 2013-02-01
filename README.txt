@@ -1,4 +1,9 @@
 kcc => kk's C language Compiler  下载：右击另存为
+2013-02-01:
+		v0.5.0
+
+2013-02-01:
+		commit: 修改返回值 修复free和assert和|| &&
 2013-01-27:
 		commit: 可以计算简单#if表达式
 2013-01-11:
