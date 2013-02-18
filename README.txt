@@ -1,4 +1,19 @@
 kcc => kk's C language Compiler  下载：右击另存为
+2013-02-07:
+		commit: 整合常用函数，不再输出run.sh
+2013-02-07:
+		commit: 将文件mode修改正确的600
+2013-02-07:
+		commit: 增加k++.h，将define移到k++.h里
+2013-02-06:
+		commit: 将MAKE_ACTION_INIT的define位置由syntax.cpp移到k++.cpp
+2013-02-06:
+		commit: 修改文件结构后修改成可执行
+2013-02-06:
+		commit: 修改文件结构，去掉7个文件夹，将8个文件放到外层
+2013-02-06:
+		commit: 增加注释 和 修改代码分格
+
 2013-02-01:
 		v0.5.0
 
