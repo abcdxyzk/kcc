@@ -1,5 +1,9 @@
 kcc => kk's C language Compiler  下载：右击另存为
-2013-02-26:
+
+2013-03-03:
+		v0.6.0
+
+2013-03-03:
 		commit: 完善#define，#if表达式等的预处理；完善编译选项
 2013-02-26:
 		commit: 修改def，增加ifdef,ifndef,undef，忽略pragma
