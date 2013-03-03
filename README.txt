@@ -1,4 +1,8 @@
 kcc => kk's C language Compiler  下载：右击另存为
+2013-02-26:
+		commit: 完善#define，#if表达式等的预处理；完善编译选项
+2013-02-26:
+		commit: 修改def，增加ifdef,ifndef,undef，忽略pragma
 2013-02-24:
 		commit: k++更名kcc；源文件不再可以缺省；增加参数，-o可执行文件，-nt不输出中间文件；不再输出_start段；将原来每一部分都从文件读入改为共用内存，文件输出变为可选项。
 2013-02-07:
