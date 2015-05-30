@@ -1,4 +1,5 @@
-kcc => kk's C language Compiler  下载：右击另存为
+2015-05-30:
+		v0.7.1 增加注释、Makefile
 2013-04-15:
 		v0.7.0
 2013-04-15:

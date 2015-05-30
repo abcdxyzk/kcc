@@ -1,7 +1,6 @@
 $APP-NAME := kcc
 
-#CPPFLAGS+=-O2
-CPPFLAGS+=-g
+CPPFLAGS+=-O2
 
 kcc: preprocessor.o lexical.o syntax.o semantic.o assembly.o kcc.o
 	g++ -o kcc preprocessor.o lexical.o syntax.o semantic.o assembly.o kcc.o
